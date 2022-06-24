@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maroon Medallion</string>
+    <string name="facebook_app_id">580777376676976</string>
+    <string name="fb_login_protocol_scheme">fb580777376676976</string>
+    <string name="image_chooser">Choose Image</string>
+
+</resources>
